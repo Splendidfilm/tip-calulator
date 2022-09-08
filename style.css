@@ -1,0 +1,211 @@
+*{
+   font-size: 11px;
+}
+body{
+ background-color:  hsl(185, 41%, 84%);
+
+   
+}
+img{
+
+    margin-left: 400px;
+    margin-top: 100px;    height: auto;
+    width: au
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    height: 350px;
+    width: 740px;
+    margin-left: 130px;
+    margin-top: 50px;
+    border-radius: 15px;
+    display:inline-flex;
+    
+    
+    } 
+.styleone{
+    background-color: hsl(0, 0%, 100%) ;
+    height: 330px;
+    width: 330px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px; 
+      color: hsl(184, 14%, 56%);
+}
+.styleonetwo{
+    background-color: hsl(183, 100%, 15%) ;
+    height: 330px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.one{
+    background-color: hsl(183, 100%, 15%) ;
+    margin-top: 20px;
+    color:hsl(185, 41%, 84%) ;
+    display: inline-flex;
+    justify-content: space-between; 
+    margin-left:20px ;
+
+}
+
+.three{
+    background-color: hsl(183, 100%, 15%) ;
+    margin-top: 20px;
+    color:hsl(185, 41%, 84%) ;
+    margin-bottom: 70px;
+    display: inline-flex;
+    justify-content: space-between; 
+    margin-left: 20px;
+
+    }
+    p{
+        color: hsl(172, 67%, 45%);
+        font-size: 24px;
+        margin-left: 120px;
+    }
+   .but{
+    margin-right: 0px;
+   }
+   .divone{
+    height: 40px;
+background-color: hsl(189, 41%, 97%);
+border-top: 5px;
+
+   }
+
+   .me{
+    height: 30px;
+    width: 140px;
+    margin-right: 140px;
+    background-color:hsl(172, 67%, 45%) ;
+    border: none;
+    border-radius: 5px;
+   }
+   .you{
+    display: flex;
+    justify-content: center;
+   }
+   .able{
+    height: 40px;
+    width: 80px;
+    font-size: 24px;
+    margin-top: 10px;
+    color:hsl(185, 41%, 84%) ;
+    background-color: hsl(183, 100%, 15%);
+    border-radius: 10px;
+   }
+  .ble{
+    
+    height: 40px;
+    width: 80px;
+    font-size: 24px;
+    margin-top: 10px;
+    color:hsl(185, 41%, 84%) ;
+    background-color:hsl(183, 100%, 15%) ;
+    border-radius: 10px;
+  }
+  .le{
+    height: 40px;
+    width: 80px;
+    font-size: 24px;
+    margin-top: 10px;
+    color:hsl(185, 41%, 84%) ;
+    background-color:hsl(172, 67%, 45%) ;
+    border-radius: 10px;
+  }
+  .ableme{
+    flex-basis: 100px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+   text-align: center;
+   text-justify: 50px;
+  }
+  .u{ 
+    height: 40px;
+    width: 80px;
+    font-size: 24px;
+    margin-top: 10px;
+    color:hsl(184, 14%, 56%) ;
+    background-color:hsl(185, 41%, 84%) ;
+    border-radius: 10px;
+  }
+  .menou{
+    flex-basis: 100px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+   text-align: center;
+   text-justify: 50px;
+  }
+  .ihateu{
+    margin-top: 40px;
+  }
+  .dem{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: none;
+    width: 270px;
+    height: 70px;
+    font-size: 24px;
+    background-color: hsl(185, 41%, 84%) ;
+    color: hsl(183, 100%, 15%);
+  }
+
+  @media screen and (max-width:375px ){
+    body{
+        background-color:  hsl(185, 41%, 84%);
+        font-size: 11px; 
+  
+    }
+    .container{
+      background-color: hsl(0, 0%, 100%);
+      height: 750px;
+      width:350px;
+      margin-right: 130px;
+      margin-top: 50px;
+      border-radius: 15px;
+      display:block;
+      } 
+      img{  
+            margin-top: 100px;   
+            height: auto;
+            display:flex;
+            justify-content:space-around;
+           
+        }
+    
+.styleone{
+  background-color: hsl(0, 0%, 100%) ;
+  height: 320px;
+  width: 320px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px; 
+    color: hsl(184, 14%, 56%);
+}
+
+.styleonetwo{
+  background-color: hsl(183, 100%, 15%) ;
+  height: 320px;
+  width: 320px;
+  border-radius: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+  
+
+  
+  
+  } 
+  
+  
